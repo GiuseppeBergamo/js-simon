@@ -47,7 +47,7 @@ numberList.innerHTML = listitems;
 
 setTimeout(() => {
     numberList.classList.add("d-none")
-}, 30000)
+}, 40000)
 
 setTimeout(() => {
     const userNumbers = [];
@@ -65,4 +65,4 @@ setTimeout(() => {
 
     alert(`Hai totalizzato ${userPoints} punti`)
 
-}, 30500)
+}, 40000)
